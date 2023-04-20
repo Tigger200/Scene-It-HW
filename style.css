@@ -1,0 +1,79 @@
+.movies-container1{
+    width: 100%;
+    height 50px 
+  }
+  
+  .movies-container2{
+    width: 100%;
+    height 15px
+  }
+  
+  .background-color{
+    black 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* .card
+    <a>(https://www.google.com/search?rlz=1C5CHFA_enUS1046US1046&sxsrf=APwXEdfQSTQy-zs6KFnYmKZfoMVg7ofniQ:1681909351978&q=Champions&stick=H4sIAAAAAAAAAO2Wz2_cRBTH1xtls3GKmnXUH0ovIVyikYjX3rXXzqWFghCHCjWNxHFke_1j1zO2157au74gISEkjj1w6gGFC4cKIXFDAipu9MABCW4ghEQluPSKEGpxsjPjNfwJNJfoO8_vfd88-32S7vr-C7IvK8psgKMF9CK1g-N84maPhOW5V2hTM5znTKdFYQ5MfcB0piI9LGcO0yHUtFBHKY_3SR9mCXkkiDKW-z62Q8Wvk6OZ5mGNadYEN9NnOMhHvFhShnZua4RrTfeHijJnGhd4WoaIx6fD0dwvI95cCnN_oRcG0xFcjMvpgGtPrxKMkusgUdUZ1vnlk0XuRLbNLz91sK7OocfrZ7ZqIK3g-YaT-iXm2ktn5iIc8XrRIkfmaMzvN0vSPMoD_nwWDcZwNq_nk-ql3U_q-RVpqOgq74f0B1qaI8T9y8Ajwyjk_QembYz8up9MMQYBDHh91bBVMsK1n53lMBlxv4WCcmSUTPsGnAW44P14pHplCPL41CiMuRMN-fN-OkqJmjCNhuagnydOHdeivlPU8-0Hlb8-Zdrp59XbGJncb1o6KiR9-nHhkoRq_TKnQ81GKh-ut1AG6hjy4ft2MSehwZvzwuGsdMaQD08rtKFJKr11VlxRh3OIlF-FL4Wt7d___Hln93Ph3oNvfxQeCOKV0DmSsTueWEdFYBFIYlhYxAmkHXH91tmxJEpdsXPrfLP2ifr2F99_-F3ndq9V_Xz62-0buwD0xM5rMbYmUe-Hx8_e-fjpk-tgR-yeWPM4ivGi91htPWw_e3LdaO1fPU-7fw3cuLq21zpoKZX6pQP_-hq0jrtnnar5PHootN_96pNvOt2usN1S293WUfugXVa_L5yu_bTBWpE-EsTNO85d2x2f5Fi6J4hrVupLHwjS-1XgzYi4aeY6RLopbryVuKkVjSVD0sX1N9L4biJdqk9Xriddro-3pE1x4yS_E8RFJmn1OZAOxM1jF1mkMo6la2Ln9YhMyELq7V4U6afhq46Zm97u9pJHe1XeXnZWaL8nOzFCVV-TOJK9CcIZaLIKNFEFmqQCTVCxKOUUWMEUT1xSCjQhxVwoo0ATUUxSQoEmoECTT6wUxRNo0ondjsIJNNnEjCiaWGVKJlaZgonlUi6xyhRLzJdSid2XQolNgzKJRSmSWJQSCTSBxHwpj1jPFEesDUojVpnCiBstWcSMKIpAk0SsFAURmwblEHuYYgg0KcSjSwixXMog0EQQM6IEAisA4qElf5ik-GEulD4sSuHDBkXZA1bR02-9-tLqp38OHOiebw50ql3y47TalNO10w3xwisI7WVumk8c92z1Vra8t1zyVSJd-uO9-39vXZT-tXr0X4H95vHzZXu-bP-LZXvxv8tmZZlLYJJWezGu_jYemwEhSXYky0VRHPoZscjEOXRiLIfuyyTHcqEWsoVQnQHJBLmHWe6frm_eDCycVLWzz9bb_wDtcY7_iAsAAA&sa=X&ved=2ahUKEwjD_9_LgLb-AhUym2oFHQpABcQQ8sMGegUIDxCPAg)<link>
+  
+  <div class="card" style="width: 18rem;">
+    <div class="card-body">
+      <img>(https://www.google.com/search?q=chris+young+images&rlz=1C5CHFA_enUS1046US1046&oq=&aqs=chrome.0.35i39i362l8.28954620j0j15&sourceid=chrome&ie=UTF-8#imgrc=NtpxMiHOh9Tg8M) 
+    </div>  
+    <div class="card-body">
+      <h5 class="card-title">Special title treatment</h5>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>}
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+  
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+        </div>
+      </div> */
+  
+  
